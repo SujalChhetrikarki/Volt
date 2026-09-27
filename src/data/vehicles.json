@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "slug": "volt-x1",
+    "name": "Volt X1",
+    "category": "Scooter",
+    "range": 140,
+    "battery": "3.6 kWh",
+    "topSpeed": "71 km/h",
+    "price": 329999,
+    "batteryType": "LiFePO4",
+    "charging": "Fast Charging",
+    "image": "/vehicle-images/volt-x1.jpg",
+    "gallery": [
+      "/vehicle-images/volt-x1.jpg",
+      "/vehicle-images/volt-city-s.jpg",
+      "/vehicle-images/volt-x2.jpg"
+    ],
+    "description": "A nimble urban commuter built for smooth daily rides and quick charging.",
+    "features": ["Swappable Battery", "Smart Connectivity", "LED Lighting", "Disc Brakes", "Digital Display"]
+  },
+  {
+    "id": 2,
+    "slug": "volt-x2",
+    "name": "Volt X2",
+    "category": "Motorcycle",
+    "range": 160,
+    "battery": "4.2 kWh",
+    "topSpeed": "75 km/h",
+    "price": 379999,
+    "batteryType": "LiFePO4",
+    "charging": "Fast Charging",
+    "image": "/vehicle-images/volt-x2.jpg",
+    "gallery": [
+      "/vehicle-images/volt-x2.jpg",
+      "/vehicle-images/volt-city-s.jpg",
+      "/vehicle-images/volt-x1.jpg"
+    ],
+    "description": "A sporty electric motorcycle with a longer range and high-traction performance.",
+    "features": ["Traction Control", "Smart Navigation", "LED Signature Lights", "Reverse Assist", "Ride Modes"]
+  },
+  {
+    "id": 3,
+    "slug": "volt-city-s",
+    "name": "Volt City S",
+    "category": "Scooter",
+    "range": 180,
+    "battery": "4.8 kWh",
+    "topSpeed": "78 km/h",
+    "price": 429999,
+    "batteryType": "LiFePO4",
+    "charging": "Ultra Fast",
+    "image": "/vehicle-images/volt-city-s.jpg",
+    "gallery": [
+      "/vehicle-images/volt-city-s.jpg",
+      "/vehicle-images/volt-x1.jpg",
+      "/vehicle-images/volt-x2.jpg"
+    ],
+    "description": "Built for everyday commuting with comfort-focused seating and smart rider assistance.",
+    "features": ["Adaptive Cruise", "App Connectivity", "Dual Suspension", "Large Display", "Anti-Theft Alarm"]
+  },
+  {
+    "id": 4,
+    "slug": "volt-cargo-1",
+    "name": "Volt Cargo 1",
+    "category": "Commercial",
+    "range": 220,
+    "battery": "6.2 kWh",
+    "topSpeed": "65 km/h",
+    "price": 489999,
+    "batteryType": "LFP Battery Pack",
+    "charging": "Commercial Charging",
+    "image": "/vehicle-images/volt-cargo-1.jpg",
+    "gallery": [
+      "/vehicle-images/volt-cargo-1.jpg",
+      "/vehicle-images/volt-x2.jpg",
+      "/vehicle-images/volt-city-s.jpg"
+    ],
+    "description": "A high-efficiency delivery vehicle designed for commercial routes and cargo movement.",
+    "features": ["Cargo Capacity", "Track and Route Support", "Low Maintenance", "High Stability", "Fleet Ready"]
+  }
+]
